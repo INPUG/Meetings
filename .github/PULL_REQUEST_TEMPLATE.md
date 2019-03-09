@@ -3,7 +3,6 @@
 # YEAR MONTH Presentation Materials
 
 ## Speaker Info:
-------------------
 
 <!-- Feel free to add as many or as few rows in the speaker info table below as you like. We do need your name of course, even if it's not your real name. -->
 
@@ -18,7 +17,6 @@ Website address (if applicable)     | https://usethepowershell.empire.gov
 Anakin Skywalker is a robotics engineer from Tatooine with over 25 years' experience working with PowerShell, both the light side and the dark side. He has recently been focusing on catching the rebel spies and using DSC to configure the Death Star for a variety of purposes, particularly when destroying planetary environments in dev/test solar systems. Anakin is a regular speaker at Storm Trooper user groups and intergalactic events.
 
 ## Summary of Talk:
----------------------
 
 <!-- Synopsis -->
 
